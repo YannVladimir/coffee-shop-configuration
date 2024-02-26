@@ -1,0 +1,38 @@
+Test 1
+Building coffee shop configuration from file: Shop_Config.txt
+Read applied successfully.
+Coffee Configuration: Default_shop
+2000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Test 2
+Building coffee shop configuration from file: file_which_is_not_there.txt
+
+****File Not Found EXCEPTION CAUGHT****
+
+****Now Handling the excepiton***
+Building coffee shop configuration from the default configurations file, default_shop_configurations.txt
+Building coffee shop configuration from file: default_shop_configurations.txt
+Read applied successfully.
+Coffee Configuration: Default_shop
+2000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+

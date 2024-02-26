@@ -1,0 +1,14 @@
+************** TESTING EXCEPTIONS **********************
+InvalidPriceException caught: Invalid option price
+Fixing MissingBasePriceException after the exception raised: Setting base price to 1000.0
+MissingNameException caught: Name is missing
+DuplicateOptionSetException caught: Option set is duplicate
+DuplicateOptionException caught: Option is duplicate
+
+************** TESTING CREATION **********************
+Coffee shop created for CoffeeShopConfigAPI: CoffeeShop1
+Coffee shop created for CoffeeShopConfigAPI: CoffeeShop2
+
+************** TESTING UPDATION **********************
+OptionSet name updated for CoffeeShopConfigAPI: CoffeeShop1
+Base price updated for CoffeeShopConfigAPI: CoffeeShop2

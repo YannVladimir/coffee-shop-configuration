@@ -1,0 +1,351 @@
+Building coffee shop configuration from file: Shop1_Config.txt
+Building coffee shop configuration from file: Shop2_Config.txt
+Read applied successfully.
+Read applied successfully.
+Coffee Configuration: Shop2
+2000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Base price updated successfully for coffee shop: Shop2
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop2
+Coffee Configuration: Shop1
+1000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Coffee Configuration: Shop2
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop2
+Base price updated successfully for coffee shop: Shop1
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop1
+Coffee shop 'Shop2' removed successfully.
+Building coffee shop configuration from file: Shop2_Config.txt
+Coffee Configuration: Shop1
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop1
+Coffee shop 'Shop1' removed successfully.
+Building coffee shop configuration from file: Shop1_Config.txt
+Read applied successfully.
+Coffee Configuration: Shop1
+1000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Base price updated successfully for coffee shop: Shop1
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop1
+Coffee Configuration: Shop1
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop1
+Coffee shop 'Shop1' removed successfully.
+Building coffee shop configuration from file: Shop1_Config.txt
+Read applied successfully.
+Coffee Configuration: Shop2
+2000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Base price updated successfully for coffee shop: Shop2
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop2
+Coffee Configuration: Shop2
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop2
+Coffee shop 'Shop2' removed successfully.
+Building coffee shop configuration from file: Shop2_Config.txt
+Read applied successfully.
+Coffee Configuration: Shop1
+1000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Base price updated successfully for coffee shop: Shop1
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop1
+Coffee Configuration: Shop1
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop1
+Coffee shop 'Shop1' removed successfully.
+Building coffee shop configuration from file: Shop1_Config.txt
+Read applied successfully.
+Coffee Configuration: Shop2
+2000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Read applied successfully.
+Coffee Configuration: Shop1
+1000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Base price updated successfully for coffee shop: Shop1
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop1
+Coffee Configuration: Shop1
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop1
+Base price updated successfully for coffee shop: Shop2
+Coffee shop 'Shop1' removed successfully.
+Building coffee shop configuration from file: Shop1_Config.txt
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop2
+Coffee Configuration: Shop2
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop2
+Coffee shop 'Shop2' removed successfully.
+Building coffee shop configuration from file: Shop2_Config.txt
+Read applied successfully.
+Coffee Configuration: Shop1
+1000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Base price updated successfully for coffee shop: Shop1
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop1
+Read applied successfully.
+Coffee Configuration: Shop1
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 1000.0
+Option 3: Option: Large - Price: 2000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 500.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop1
+Coffee shop 'Shop1' removed successfully.
+Coffee Configuration: Shop2
+2000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Base price updated successfully for coffee shop: Shop2
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop2
+Coffee Configuration: Shop2
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop2
+Coffee shop 'Shop2' removed successfully.
+Building coffee shop configuration from file: Shop2_Config.txt
+Read applied successfully.
+Coffee Configuration: Shop2
+2000.0
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+Base price updated successfully for coffee shop: Shop2
+Option not found.
+Option price updated successfully.
+Option price updated successfully for coffee shop: Shop2
+Coffee Configuration: Shop2
+15.99
+OptionSet: CoffeeSize
+Option 1: Option: Small - Price: 0.0
+Option 2: Option: Medium - Price: 3000.0
+Option 3: Option: Large - Price: 6000.0
+
+OptionSet: Sweetener choices
+Option 1: Option: Regular - Price: 0.0
+Option 2: Option:  Almond - Price: 400.0
+Option 3: Option:  Soy - Price: 0.0
+
+
+OptionSet updated successfully.
+OptionSet name updated successfully for coffee shop: Shop2
+Coffee shop 'Shop2' removed successfully.
+Coffee shop with name 'Wannabuy' not found.

@@ -1,0 +1,8 @@
+# Coffee Shop Configurations
+
+Shop_name=Default_shop
+Base_price=2000.0
+Option_set_name=CoffeeSize
+Options=Small:0.0,Medium:1000.0,Large:2000.0
+Option_set_name=Sweetener choices
+Options=Regular:0.0, Almond:500.0, Soy:0.0
