@@ -1,0 +1,32 @@
+# Maven
+target/
+
+# Legacy Eclipse build output / project files (project is now Maven-based)
+bin/
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Compiled class files (in case of manual javac builds outside target/)
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office lock files
+~$*
+
+# Serialized runtime artifacts produced by the app (not source)
+*.ser
